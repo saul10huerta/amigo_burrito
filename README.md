@@ -1,1 +1,1 @@
-# amigo_burrito
+# Amigo Burrito Restaurant
